@@ -1,0 +1,7 @@
+C:\Users\asadm\OneDrive\Documents\Visual Studio 2017\Projects\CT_Assesment\CT_Assesment\bin\Debug\CT_Assesment.exe.config
+C:\Users\asadm\OneDrive\Documents\Visual Studio 2017\Projects\CT_Assesment\CT_Assesment\bin\Debug\CT_Assesment.exe
+C:\Users\asadm\OneDrive\Documents\Visual Studio 2017\Projects\CT_Assesment\CT_Assesment\bin\Debug\CT_Assesment.pdb
+C:\Users\asadm\OneDrive\Documents\Visual Studio 2017\Projects\CT_Assesment\CT_Assesment\obj\Debug\CT_Assesment.csprojAssemblyReference.cache
+C:\Users\asadm\OneDrive\Documents\Visual Studio 2017\Projects\CT_Assesment\CT_Assesment\obj\Debug\CT_Assesment.csproj.CoreCompileInputs.cache
+C:\Users\asadm\OneDrive\Documents\Visual Studio 2017\Projects\CT_Assesment\CT_Assesment\obj\Debug\CT_Assesment.exe
+C:\Users\asadm\OneDrive\Documents\Visual Studio 2017\Projects\CT_Assesment\CT_Assesment\obj\Debug\CT_Assesment.pdb
